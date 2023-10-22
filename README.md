@@ -10,6 +10,7 @@ I inlcuded the files that Linkscraper and Filescraper created so one can imedeat
 
 Getting the scripts running:
 As these scripts were mostly a mean to an end and not an end in itself, I did not optimize it to be OS agnostic, many paths are hardcoded and would need to be changes and generally my criteria was that if it works for me that was good enought.
+-unzip the Ukraine_all.zip
 -pip version list at the end of this text
 -Some of the dependecies of the packages I could not find on Windows but they worked on Linux (Ubuntu) and MacOS.
 -dependecies not automatically installed via pip were ChromeDriver, a lxml parser library and some of the dependciey for Dostoyevsky, such as facebooks Fasttext. 
