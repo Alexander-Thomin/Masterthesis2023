@@ -31,7 +31,7 @@ warnings.filterwarnings("ignore", category=RuntimeWarning)
 print("start")
 
 ###The varaiables 
-    #Select the analysis case by deleting the hashtag before the case you want to run and put a hashtag before the eother to disbale it. I originally intended to write a more elegant way to do this, but later thought it would be better to put this time into refinfing the thesis.
+    #Select the analysis case by deleting the hashtag before the case you want to run and put a hashtag before the eother to disbale it. I originally intended to write a more elegant way to do this, but later thought it would be better to put this time into refining the thesis.
 #case = "Ukraine" 
 case = "Georgia"
 print(case)
